@@ -1,5 +1,5 @@
 import React from "react";
-import LotteryGame from "./Components/LotteryGame"; // ✅ Correct import
+import LotteryGame from "./Components/LotteryGame"; 
 
 function App() {
   return (
